@@ -1,2 +1,0 @@
-# cermati-test
-Register Account
